@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "544145828891",
+    "project_id": "weatherapp-d68a0",
+    "storage_bucket": "weatherapp-d68a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544145828891:android:0a502cf716778943125cbe",
+        "android_client_info": {
+          "package_name": "com.example.myntcodechallenge"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnvp7gsT1z2B_AxBbbjEclj9lpppxVPXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

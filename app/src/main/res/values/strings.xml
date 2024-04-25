@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyntCodeChallenge</string>
+    <string name="api_key">{place api key here}</string>
+</resources>
